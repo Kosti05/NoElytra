@@ -7,7 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class NoElytra extends JavaPlugin {
 
-    public static final String PREFIX = "§7[§6NoElytra§7]§r ";
+    public String PREFIX() {return "§7[§6NoElytra§7]§r ";}
 
     @Override
     public void onEnable() {
