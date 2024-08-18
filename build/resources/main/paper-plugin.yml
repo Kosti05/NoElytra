@@ -1,0 +1,6 @@
+name: NoElytra
+version: '1.0'
+main: dev.kosti.noElytra.NoElytra
+api-version: '1.21'
+authors:
+  - Kosti05
