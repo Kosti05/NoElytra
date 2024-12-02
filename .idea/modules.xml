@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoElytra.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NoElytra.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.kosti.NoElytra.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.kosti.NoElytra.main.iml" />
     </modules>
   </component>
 </project>
